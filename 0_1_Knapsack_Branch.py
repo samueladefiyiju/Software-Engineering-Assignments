@@ -5,7 +5,7 @@ Created on Mon Apr 13 13:03:40 2020
 
 @author: samuel adefiyiju
 
-The Following code uses a branch and bound algogrithm in order to compute the maximum profit for the 0-1 Knapsack Problem. 
+The following code uses a branch and bound algogrithm in order to compute the maximum profit for the 0-1 Knapsack Problem. 
 """
 import copy 
 class node:
