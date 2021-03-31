@@ -1,4 +1,4 @@
-# Software-Engineering-Assignments
+# Software-Engineering-Algorithms-And-Projects
 Personal Algorithm Projects
 
 The purpose of this repository is to demonstrate my exposure to popular computer science algorithms and concepts such as:
